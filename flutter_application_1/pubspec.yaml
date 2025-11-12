@@ -31,10 +31,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # ESTA ES LA ESTRUCTURA CORRECTA:
-  # cupertino_icons y http están al mismo nivel que flutter.
+  # ESTA LÍNEA ES LA IMPORTANTE
+  
+  # (La versión puede ser la que te indicaba el diff, ^1.2.1 está bien)
+
   cupertino_icons: ^1.0.8
-  http: ^1.2.1
+  http: ^1.2.1 
 
 dev_dependencies:
   flutter_test:
