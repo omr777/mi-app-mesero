@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849170063014",
+    "project_id": "app-mesero",
+    "storage_bucket": "app-mesero.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849170063014:android:51b23342b323442a7f1e67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qxEDK7s30anv4gjLBUfe0WhPZ2qtdmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
